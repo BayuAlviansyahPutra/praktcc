@@ -1,0 +1,2 @@
+service: surat-service
+runtime: nodejs16
